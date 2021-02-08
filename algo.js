@@ -1,6 +1,6 @@
 /**
  * 
- * Test Algorithme Andry Radimison
+ * Exemple Algorithme by Andry Radimison
  */
 
 /**
